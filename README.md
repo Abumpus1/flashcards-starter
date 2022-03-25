@@ -8,6 +8,8 @@ This text based game was an educational project used to practice Test Driven Dev
 ## Technologies used
 
 - JavaScript
+- Mocha
+- Chai
 
 ## Setup
 
